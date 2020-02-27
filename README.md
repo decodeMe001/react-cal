@@ -1,4 +1,4 @@
-![react-cal](https://github.com/decodeMe001/react-cal/tree/master/assets/img/react-cal.jpg)
+![react-cal](https://github.com/decodeMe001/react-cal/assets/img/react-cal.jpg)
 
 ## Project Title
 
